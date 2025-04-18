@@ -1,9 +1,9 @@
 {
 "version": "38.4.3",
 "title": "Update Available!",
-"NewVersion": "v3.0",
+"NewVersion": "v4.0",
 "downloadLink": "https://telegram.me/tikexy",
-"changeLogMessage": "- Bug fixes\n- Performance improvements
+"changeLogMessage": "- Bug fixes\n- Performance improvements\n- Tap the update now button below to see all the updates.
 \n\n
 A new update is available for the app. Please update for the latest features and improvements.",
 "negativebtn": "Later",
